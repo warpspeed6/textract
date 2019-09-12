@@ -23,4 +23,4 @@ Detected Key: Occupotion, Detected Value: Student
 ```
 # ToDo:
 
-Upload to AWS SFTP-S3-Lambda-Another_S3_Bucket_SES
+Upload to AWS SFTP-S3-Lambda-Another_S3_Bucket-SES
