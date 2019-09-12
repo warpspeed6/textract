@@ -1,5 +1,8 @@
-# textract
-# Supporting Code for Blog at https://www.linkedin.com/pulse/how-i-scanned-translated-document-using-aws-textract-anshumali-sharma/
+# AWS textract
+
+Supporting Code for Blog at https://www.linkedin.com/pulse/how-i-scanned-translated-document-using-aws-textract-anshumali-sharma/
+
+The chosen document Below.JPG is uploaded to the bucket and then scanned using AWS textract to obtain the text in it.
 
 Result is values from the scanned document in plain text:
 
