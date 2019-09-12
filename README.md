@@ -2,7 +2,7 @@
 
 Supporting Code for Blog at https://www.linkedin.com/pulse/how-i-scanned-translated-document-using-aws-textract-anshumali-sharma/
 
-The chosen document Below.JPG is uploaded to the bucket and then scanned using AWS textract to obtain the text in it.
+The chosen document Below.jpg is uploaded to the S3 bucket and then scanned using AWS textract to obtain the text in it.
 
 Result is values from the scanned document in plain text:
 
@@ -21,3 +21,6 @@ Detected Key: Colour of eyes, Detected Value: Brown
 Detected Key: Applicants's Notionality, Detected Value: Belizean
 Detected Key: Occupotion, Detected Value: Student
 ```
+# ToDo:
+
+Upload to AWS SFTP-S3-Lambda-Another_S3_Bucket_SES
