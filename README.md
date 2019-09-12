@@ -6,6 +6,7 @@ The chosen document Below.JPG is uploaded to the bucket and then scanned using A
 
 Result is values from the scanned document in plain text:
 
+```
 ~/workspace/textract $ python3 scanform.py
 Key Value Pairs:
 Detected Key: Legal Guardian:, Detected Value: NOT_SELECTED
@@ -19,3 +20,4 @@ Detected Key: Divorced, Detected Value: NOT_SELECTED
 Detected Key: Colour of eyes, Detected Value: Brown
 Detected Key: Applicants's Notionality, Detected Value: Belizean
 Detected Key: Occupotion, Detected Value: Student
+```
